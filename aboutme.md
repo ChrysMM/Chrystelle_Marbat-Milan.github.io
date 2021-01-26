@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Je suis Chrystelle Marbat-Milan
-subtitle: Je conçois des sites web de qualité et accessibles.
+subtitle: I design and code beautifully simple things.
 ---
 ## Mes compétences:
 
