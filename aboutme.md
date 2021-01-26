@@ -21,6 +21,8 @@ subtitle: I design and code beautifully simple things.
 
 What else do you need?
 
-## My story
+## Mon profil
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ Autonome de nature, je peux travailler seule ou en groupe, étant également capable de m’adapter à un environnement que je ne connais pas.
+Je sais faire preuve de force de proposition lorsque l’on m’en donne la liberté, cherchant toujours à améliorer et optimiser les projets au
+maximum pour satisfaire au mieux la demande du client. Je souhaite intégrer une équipe passionnée et dynamique
