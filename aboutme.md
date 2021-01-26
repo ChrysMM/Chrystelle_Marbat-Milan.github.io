@@ -4,7 +4,7 @@ title: A propos de moi
 subtitle: Je conçois des sites web de qualité et accessibles.
 ---
 Je suis Chrystelle Marbat-Milan
-Mes compétences:
+## Mes compétences:
 
 - PHP/Symfony
 - Sql
