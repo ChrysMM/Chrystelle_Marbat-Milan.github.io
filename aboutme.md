@@ -6,18 +6,18 @@ subtitle: Je conçois des sites web de qualité et accessibles.
 Je suis Chrystelle Marbat-Milan
 Mes compétences:
 
--PHP/Symfony
--Sql
--CSS
--HTML
--JavaScript
--NodeJS/Angular
--Méthode Agile, Scrum
--WordPress
--Gestion du temps et planification
--Travail en équipe
--Capacité d'adaptation
--Prise d'initiatives
+- PHP/Symfony
+- Sql
+- CSS
+- HTML
+- JavaScript
+- NodeJS/Angular
+- Méthode Agile, Scrum
+- WordPress
+- Gestion du temps et planification
+- Travail en équipe
+- Capacité d'adaptation
+- Prise d'initiatives
 
 
 What else do you need?
