@@ -3,7 +3,7 @@ layout: page
 title: A propos de moi
 subtitle: Je conçois des sites web de qualité et accessibles.
 ---
-Je suis Chrystelle Marbat-Milan
+### Je suis Chrystelle Marbat-Milan
 ## Mes compétences:
 
 - PHP/Symfony
@@ -22,6 +22,6 @@ Je suis Chrystelle Marbat-Milan
 
 What else do you need?
 
-### My story
+## My story
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
