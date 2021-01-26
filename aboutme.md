@@ -1,13 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos de moi
+subtitle: Je conçois des sites web de qualité et accessibles.
 ---
+Je suis Chrystelle Marbat-Milan
+Mes compétences:
 
-My name is Inigo Montoya. I have the following qualities:
+-PHP/Symfony
+-Sql
+-CSS
+-HTML
+-JavaScript
+-NodeJS/Angular
+-Méthode Agile, Scrum
+-WordPress
+-Gestion du temps et planification
+-Travail en équipe
+-Capacité d'adaptation
+-Prise d'initiatives
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
 What else do you need?
 
