@@ -1,9 +1,8 @@
 ---
 layout: page
-title: A propos de moi
+title: Je suis Chrystelle Marbat-Milan
 subtitle: Je conçois des sites web de qualité et accessibles.
 ---
-### Je suis Chrystelle Marbat-Milan
 ## Mes compétences:
 
 - PHP/Symfony
