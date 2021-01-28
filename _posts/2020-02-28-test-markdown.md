@@ -14,4 +14,4 @@ Here's a code chunk:
 
  ![Ceci est l'attribut ALT de l'image][monimage]
 
-[monimage]: relative/urls/cool/CV2.png
+[monimage]: /assets/img/CV2.png
