@@ -69,7 +69,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: false
+  facebook: true
   linkedin: true
   vk: false
   github: true
