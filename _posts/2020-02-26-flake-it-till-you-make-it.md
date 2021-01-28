@@ -5,7 +5,6 @@ subtitle: J’apporte mon expertise aux entreprises
 cover-img: /assets/img/cweb.png
 thumbnail-img: /assets/img/thumb1.png
 share-img: /assets/img/cweb.png
-tags: [books, test]
 ---
 
  Sites vitrines 
